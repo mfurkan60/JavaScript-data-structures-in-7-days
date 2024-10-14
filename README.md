@@ -1,5 +1,10 @@
 # JavaScript-data-structures-in-7-days
 
+## Author Information
+
+- **Name**: [Mert Furkan ERGÜDEN]
+- **LinkedIn**: [  LinkedIn Profile](https://www.linkedin.com/in/mertfurkanerguden/)
+
 ## Sponsor
 
 This project is sponsored by **[GET Software](https://www.getsoftware.com)**. We appreciate their support in making this project possible.
@@ -83,7 +88,7 @@ Trees are hierarchical data structures that play a vital role in organizing and 
 
 Graphs are powerful data structures used to represent relationships between objects. In this final section, we will explore the basic components of graphs, including nodes (vertices) and edges (connections). We will discuss the various types of graphs (directed, undirected, weighted, and unweighted) and their applications in real-world scenarios such as social networks and transportation systems. Key algorithms, such as Depth-First Search (DFS) and Breadth-First Search (BFS), will be introduced, showcasing their utility in traversing graphs. Finally, we will implement a simple graph model to represent a social network, allowing users to visualize and interact with their connections.
 
-[More](https://www.google.com)
+[More](https://github.com/mfurkan60/JavaScript-data-structures-in-7-days/tree/main/Day7_Graphs)
 
 
 ## Conclusion
