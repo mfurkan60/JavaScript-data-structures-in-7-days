@@ -7,7 +7,7 @@
 
 ## Sponsor
 
-This project is sponsored by **[GET Software](https://www.getsoftware.com)**. We appreciate their support in making this project possible.
+This project is sponsored by **[GET Software](https://www.getsoftwarecompany.com/)**. We appreciate their support in making this project possible.
 
 <a href="https://www.getsoftwarecompany.com/">
     <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFkeXRehy0xWg/company-logo_200_200/company-logo_200_200/0/1706101885610/get_software_company_logo?e=2147483647&v=beta&t=s-Dlcpsmi2-DYIhEOw7Lilo17wHEpMYrkAu8Ux-Coik" alt="GET Software Logo" width="50" />
@@ -102,7 +102,7 @@ By the end of this repository, you will have a solid understanding of key data s
 
 ## Sponsor
 
-This project is sponsored by **[GET Software](https://www.getsoftware.com)**. We appreciate their support in making this project possible.
+This project is sponsored by **[GET Software](https://www.getsoftwarecompany.com/)**. We appreciate their support in making this project possible.
 
 ![GET Software Logo](https://media.licdn.com/dms/image/v2/D4D0BAQFkeXRehy0xWg/company-logo_200_200/company-logo_200_200/0/1706101885610/get_software_company_logo?e=2147483647&v=beta&t=s-Dlcpsmi2-DYIhEOw7Lilo17wHEpMYrkAu8Ux-Coik)
 
