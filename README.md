@@ -1,9 +1,8 @@
-# JavaScript-data-structures-in-7-days
+# JavaScript Data Structures in 7 Days
 
 ## Author Information
 
-- **Name**: [Mert Furkan ERGÜDEN]
-- **LinkedIn**: [  LinkedIn Profile](https://www.linkedin.com/in/mertfurkanerguden/)
+- **Name**: [Mert Furkan ERGÜDEN](https://www.linkedin.com/in/mertfurkanerguden/)
 
 ## Sponsor
 
@@ -13,7 +12,6 @@ This project is sponsored by **[GET Software](https://www.getsoftwarecompany.com
     <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFkeXRehy0xWg/company-logo_200_200/company-logo_200_200/0/1706101885610/get_software_company_logo?e=2147483647&v=beta&t=s-Dlcpsmi2-DYIhEOw7Lilo17wHEpMYrkAu8Ux-Coik" alt="GET Software Logo" width="50" />
 </a>
 
-
 ---
 
 Welcome to the **Data Structures in JavaScript in 7 Days** repository! This project aims to provide a comprehensive understanding of various data structures using JavaScript. Over the course of 7 days, we will explore fundamental concepts and practical implementations of essential data structures.
@@ -21,9 +19,9 @@ Welcome to the **Data Structures in JavaScript in 7 Days** repository! This proj
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Day 1: Arrays](#day-1-arrays)
-3. [Day 2: Objects](#day-2-objects)
-4. [Day 3: Functions](#day-3-functions)
+2. [Day 1: Introduction And Basic Data Structure](#day-1-introduction-and-basic-data-structure)
+3. [Day 2: Arrays](#day-2-arrays)
+4. [Day 3: Objects](#day-3-objects)
 5. [Day 4: Stacks and Queues](#day-4-stacks-and-queues)
 6. [Day 5: Linked Lists](#day-5-linked-lists)
 7. [Day 6: Trees](#day-6-trees)
@@ -34,9 +32,9 @@ Welcome to the **Data Structures in JavaScript in 7 Days** repository! This proj
 
 ## Introduction
 
-This curriculum is designed for those who want to understand and apply the concept of data structures using the JavaScript programming language. Over the course of 7 days, you will start with basic data structures and explore more complex structures such as arrays, objects, stacks, queues, linked lists, trees, and graphs. Each day, you will be supported by theoretical information on the subject as well as practical code examples and application projects, so you will have the opportunity to apply what you have learned. Our goal is to develop your software development skills and increase your problem-solving abilities by learning the fundamentals of data structures in a solid way. We hope you enjoy this journey!
+This curriculum is designed for those who want to understand and apply the concept of data structures using the JavaScript programming language. Over the course of 7 days, you will start with basic data structures and explore more complex structures such as arrays, objects, stacks, queues, linked lists, trees, and graphs. Each day, you will be supported by theoretical information on the subject as well as practical code examples and application projects, providing you the opportunity to apply what you have learned. Our goal is to develop your software development skills and increase your problem-solving abilities by learning the fundamentals of data structures in a solid way. We hope you enjoy this journey!
 
-## Day 1: Arrays
+## Day 1: Introduction And Basic Data Structure
 
 In this section, we will delve into arrays, one of the most fundamental data structures in JavaScript. Arrays are ordered collections that can hold multiple values, allowing for efficient data storage and retrieval. We will explore various characteristics of arrays, such as their dynamic size, which enables them to grow or shrink as needed. Key operations such as addition (using methods like `push` and `unshift`), removal (using `pop` and `shift`), and traversal (using loops or methods like `forEach`) will be covered. We will also discuss common array methods, including `map`, `filter`, and `reduce`, which allow for powerful data manipulation and transformation.
 
@@ -46,7 +44,7 @@ In this section, we will delve into arrays, one of the most fundamental data str
 
 ## Day 2: Arrays
 
-In this section, we will delve into arrays, one of the most fundamental data structures in JavaScript. Arrays are ordered collections that can hold multiple values, allowing for efficient data storage and retrieval. We will explore various characteristics of arrays, such as their dynamic size, which enables them to grow or shrink as needed. Key operations such as addition (using methods like `push` and `unshift`), removal (using `pop` and `shift`), and traversal (using loops or methods like `forEach`) will be covered. We will also discuss common array methods, including `map`, `filter`, and `reduce`, which allow for powerful data manipulation and transformation.
+In this section, we will delve deeper into arrays, one of the most fundamental data structures in JavaScript. Arrays are ordered collections that can hold multiple values, allowing for efficient data storage and retrieval. We will explore various characteristics of arrays, such as their dynamic size, which enables them to grow or shrink as needed. Key operations such as addition (using methods like `push` and `unshift`), removal (using `pop` and `shift`), and traversal (using loops or methods like `forEach`) will be covered. We will also discuss common array methods, including `map`, `filter`, and `reduce`, which allow for powerful data manipulation and transformation.
 
 [More](https://github.com/mfurkan60/JavaScript-data-structures-in-7-days/tree/main/Day2_Arrays)
 
@@ -90,6 +88,7 @@ Graphs are powerful data structures used to represent relationships between obje
 
 [More](https://github.com/mfurkan60/JavaScript-data-structures-in-7-days/tree/main/Day7_Graphs)
 
+---
 
 ## Conclusion
 
@@ -97,13 +96,12 @@ By the end of this repository, you will have a solid understanding of key data s
 
 ## Author Information
 
-- **Name**: [Mert Furkan ERGÜDEN]
-- **LinkedIn**: [  LinkedIn Profile](https://www.linkedin.com/in/mertfurkanerguden/)
+- **Name**: [Mert Furkan ERGÜDEN](https://www.linkedin.com/in/mertfurkanerguden/)
 
 ## Sponsor
 
 This project is sponsored by **[GET Software](https://www.getsoftwarecompany.com/)**. We appreciate their support in making this project possible.
 
-![GET Software Logo](https://media.licdn.com/dms/image/v2/D4D0BAQFkeXRehy0xWg/company-logo_200_200/company-logo_200_200/0/1706101885610/get_software_company_logo?e=2147483647&v=beta&t=s-Dlcpsmi2-DYIhEOw7Lilo17wHEpMYrkAu8Ux-Coik)
-
-
+<a href="https://www.getsoftwarecompany.com/">
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFkeXRehy0xWg/company-logo_200_200/company-logo_200_200/0/1706101885610/get_software_company_logo?e=2147483647&v=beta&t=s-Dlcpsmi2-DYIhEOw7Lilo17wHEpMYrkAu8Ux-Coik" alt="GET Software Logo" width="50" />
+</a>
